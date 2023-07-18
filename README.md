@@ -27,14 +27,28 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Favorite apps and features:
+- Youtube
+    - Search feature
+    - Comment Sections
+- Apple Maps
+    - Easy input of start/end sections
+    - path finding algorithm
+- Google Calendar 
+    - Selecting time blocks
+    - Adding descriptions to events
+
+App idea I would like to build:
+- UMD Room Finding App: UMD app that allows students to find an efficient path from one room to another. It can be optimized further to find a path from a room to the nearest fire exit and other common rooms, such as bathrooms and stairways. Additionally, I would want a way for the student to select the building they are in.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Difficulties adjusting to new software
+- Difficulties formatting labels and buttom for user
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Richard Martinez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
